@@ -1,9 +1,7 @@
-
-# Villanos
-
-1. Lex Luthor
-2. Joker
-3. Flash Reverso
-4. Doomsday
-5. Deadshot
-6. Harley Quinn
+#villanos
+1. jose
+2. miguel
+3. carlos
+4. darel
+5. manuel
+6. rosi
